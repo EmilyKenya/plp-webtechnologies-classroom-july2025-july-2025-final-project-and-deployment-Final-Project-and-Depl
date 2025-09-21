@@ -22,7 +22,7 @@ Future Travels is a personal travel blog documenting planned and past trips, iti
 - JavaScript  
 
 ## Live Website
-[View the live site here]https://mischatravels.netlify.app/
+https://mischatravels.netlify.app/
 
 ## File Structure
 future-travels/
