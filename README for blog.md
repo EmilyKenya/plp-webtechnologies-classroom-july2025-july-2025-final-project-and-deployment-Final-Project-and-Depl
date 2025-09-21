@@ -22,7 +22,7 @@ Future Travels is a personal travel blog documenting planned and past trips, iti
 - JavaScript  
 
 ## Live Website
-[View the live site here](https://emilykenya.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/)
+[View the live site here]https://mischatravels.netlify.app/
 
 ## File Structure
 future-travels/
